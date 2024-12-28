@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\windy\\.gradle\\daemon\\8.9\\com.example.fileexplorer.app-merged_res-20:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\windy\\.gradle\\daemon\\8.9\\com.example.fileexplorer.app-main-22:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.fileexplorer.app-merged_res-20:/layout_item_file.xml.flat",
+        "source": "com.example.fileexplorer.app-main-22:/layout/item_file.xml"
+    }
+]
